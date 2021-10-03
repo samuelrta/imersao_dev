@@ -50,8 +50,10 @@ input {
 
 .ResultadoAprovado{
   color:#00AE91; 
+  background-color: yellow;
 }
 .ResultadoReprovado{
   color:#000000;
+  background-color: red;
 }
 
