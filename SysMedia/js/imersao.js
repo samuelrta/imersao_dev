@@ -11,15 +11,19 @@ function CalculaMedia() {
 
   var somaMedia = ((notaPrimeiro + notaSegundo + notaTerceiro) / 4).toFixed(1);
       
-    if (somaMedia >= 7) {
+    if (somaMedia >= 7 && somaMedia <= 10) {
       var elementoResultadoMediaAprovado = document.getElementById("ResultadoMediaAprovado");
       var resultadoMedia = "Sua média é " + somaMedia + " - APROVADO"
       elementoResultadoMediaAprovado.innerHTML = resultadoMedia
-    } else  {
+    } else if (somaMedia >= 0 && somaMedia < 7)  {
       var elementoResultadoMediaReprovado = document.getElementById("ResultadoMediaReprovado");
       var resultadoMedia = "Sua média é " + somaMedia + " - REPROVADO"
       elementoResultadoMediaReprovado.innerHTML = resultadoMedia
-    }    
+    } else {
+    var elementoResultadoMediaReprovado = document.getElementById("ResultadoMediaReprovado");
+    var resultadoMedia = "Média invalida. Precisa ficar entre 0 - 10"
+    elementoResultadoMediaReprovado.innerHTML = resultadoMedia
+    }
 }
 
 function Limpar(){
