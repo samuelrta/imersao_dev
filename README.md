@@ -1,6 +1,6 @@
 "#imersao_dev
 
-Olá Devs, esse repositório é destinado para todos que estão iniciando na área de desenvolvimento e estão em busca de alcançar os primeiros níveis de experiência. Os projetos realizados são propostas durante o evento **Imersão Dev - Alura**. Existem modificações com novas funcionalidades e recursos para pratica do **HTML,CSS e JavaScript** 
+Olá Devs, esse repositório é destinado para todos que estão iniciando na área de desenvolvimento e estão em busca de alcançar os primeiros níveis de experiência. Os projetos realizados são propostas durante o evento **Imersão Dev - Alura**. Existem modificações com novas funcionalidades e recursos para pratica do **HTML, CSS e JavaScript** 
 
 Estou adicionando links de refêrencia com o objetivo de ficar acessível para todos. Fique a vontade para utilizar dos projetos e crie sua propria modificação ou sugerir mudanças.
 
@@ -8,14 +8,14 @@ Estou adicionando links de refêrencia com o objetivo de ficar acessível para t
 Como desafio pessoal todo dia estarei escrevendo codigos e estudando diferentes projetos como treinamento, compartilhando o progresso e avanço conforme os dias.
 
 # Links úteis para aprendizado
-[Projeto 01 - Codepen](https://codepen.io/imersao-dev/pen/QWgppMM)
-[HTML, CSS e JavaScript, quais as diferenças:](https://www.alura.com.br/artigos/html-css-e-js-definicoes)
-[Mais sobre variáveis:](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis)
-[Mais sobre a função parseFloat:](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat)
-[JavaScript segundo a documentação:](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[Primeiros passos na programação:](https://hipsters.tech/primeiros-passos-na-programacao-a-imersao-dev-hipsters-ponto-tech-243/)
-[O que é Javascript?:](https://www.youtube.com/watch?v=NaVSbnnV75Q)
-[5 minutos de HTML:](https://www.youtube.com/watch?v=3oSIqIqzN3M)
+  * [Projeto 01 - Codepen](https://codepen.io/imersao-dev/pen/QWgppMM)
+  * [HTML, CSS e JavaScript, quais as diferenças](https://www.alura.com.br/artigos/html-css-e-js-definicoes)
+  * [Mais sobre variáveis:](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis)
+  * [Mais sobre a função parseFloat:](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat)
+  * [JavaScript segundo a documentação:](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+  * [Primeiros passos na programação:](https://hipsters.tech/primeiros-passos-na-programacao-a-imersao-dev-hipsters-ponto-tech-243/)
+  * [O que é Javascript?:](https://www.youtube.com/watch?v=NaVSbnnV75Q)
+  * [5 minutos de HTML:](https://www.youtube.com/watch?v=3oSIqIqzN3M)
 
 [Projeto 02 - Codepen](https://codepen.io/imersao-dev/pen/38cf7906dcec352d8dbd0f8c4c7c1b10)
 [Projeto 03 - Codepen](https://codepen.io/imersao-dev/pen/88cd2864e0f8c5803b851cd533799a69)
@@ -49,7 +49,7 @@ Como desafio pessoal todo dia estarei escrevendo codigos e estudando diferentes 
 [Projeto 09 - Design no Figma:](https://www.figma.com/file/1flmz2iauuNs8JsY6eaBHI/Imers%C3%A3o-Dev-Aula-9?node-id=0%3A1)
 [Repositório do código final da aula 8:](https://codepen.io/imersao-dev/pen/44102c16ea973fc13878df12d8dd923e)
 
-[Projeto 10 -Design no Figma:](https://www.figma.com/file/I4p9ndfOKgjDKalFwd5ASr/Imers%C3%A3o-Dev-Aula-10?node-id=0%3A1)
+[Projeto 10 - Design no Figma:](https://www.figma.com/file/I4p9ndfOKgjDKalFwd5ASr/Imers%C3%A3o-Dev-Aula-10?node-id=0%3A1)
 [Pasta com ícones das conquistas:](https://drive.google.com/drive/folders/1QjIKZdSj12SlEi_GLuuY9mC6Z_s9dHU9?usp=sharing)
 [Código final da aula 9:](https://codepen.io/imersao-dev/pen/61f842fdc4d27b0fe5256496938214af)
 [Código final da aula 10:](https://codepen.io/imersao-dev/pen/55e126667bfdadc92e7e89991366134b)
