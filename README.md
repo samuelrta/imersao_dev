@@ -4,8 +4,8 @@ Como desafio pessoal todo dia estarei escrevendo codigos e estudando diferentes 
 
 Esse projeto faz parte da Imersão Dev Alura.: HTML, CSS, JS
 
-Aula 01 - Links de referência
-https://codepen.io/imersao-dev/pen/QWgppMM
+##Links úteis para aprendizado
+[Modelo base do projeto 01](https://codepen.io/imersao-dev/pen/QWgppMM)
 HTML, CSS e JavaScript, quais as diferenças: https://www.alura.com.br/artigos/html-css-e-js-definicoes
 Mais sobre variáveis: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis
 Mais sobre a função parseFloat: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat
