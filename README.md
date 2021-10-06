@@ -1,13 +1,15 @@
-"#imersao_dev
+<img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-mentalista.svg"> 
 
-Olá Devs, esse repositório é destinado para todos que estão iniciando na área de desenvolvimento e estão em busca de alcançar os primeiros níveis de experiência. Os projetos realizados são propostas durante o evento **Imersão Dev - Alura**. Existem modificações com novas funcionalidades e recursos para pratica do **HTML, CSS e JavaScript** 
+Repositório destinado para todos que estão iniciando na área de desenvolvimento e desejam alcançar os primeiros níveis de experiência. Os projetos realizados são propostas durante o evento **Imersão Dev - Alura**. Existem modificações com novas funcionalidades e recursos para pratica do **HTML, CSS e JavaScript** 
 
 Estou adicionando links de refêrencia com o objetivo de ficar acessível para todos. Fique a vontade para utilizar dos projetos e crie sua propria modificação ou sugerir mudanças.
 
 # Sobre o desafio **code to day**
 Como desafio pessoal todo dia estarei escrevendo codigos e estudando diferentes projetos como treinamento, compartilhando o progresso e avanço conforme os dias.
 
-# Links úteis para aprendizado
+# Links para aprendizado
+<details>
+	
   * [Projeto 01 - Codepen](https://codepen.io/imersao-dev/pen/QWgppMM)
   * [HTML, CSS e JavaScript, quais as diferenças](https://www.alura.com.br/artigos/html-css-e-js-definicoes)
   * [Mais sobre variáveis:](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis)
@@ -57,6 +59,6 @@ Como desafio pessoal todo dia estarei escrevendo codigos e estudando diferentes 
   * [Primeiros passos na programação:](https://hipsters.tech/primeiros-passos-na-programacao-a-imersao-dev-hipsters-ponto-tech-243/)
   * [Dicas de Programação:](https://www.youtube.com/playlist?list=PLTcmLKdIkOWkJY8LJXs1GDqBnxCGsExBO)
 
-# Link extra
-[Incluindo CSS na página:](https://tableless.github.io/iniciantes/manual/css/inserindo-css.html)
-	
+	Contéudo extra
+	* [Incluindo CSS na página:](https://tableless.github.io/iniciantes/manual/css/inserindo-css.html)
+</details>	
